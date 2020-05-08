@@ -101,7 +101,7 @@
   "gamemode.domination.loss": "Din sista stad var förlorad, du har blivit utslagen.",
   "gamemode.glory.caps": "ÄRA",
   "gamemode.glory": "Ära",
-  "gamemode.glory.description": ”Den första att nå {0} poäng vinner",
+  "gamemode.glory.description": "Den första att nå {0} poäng vinner",
   "gamemode.glory.win": "De {0} poängen nåddes!",
   "gamemode.might.caps": "MAKT",
   "gamemode.might": "Makt",
